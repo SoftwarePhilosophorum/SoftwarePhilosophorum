@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoftwarePhilosophorum
-- 👀 I’m interested in software, coding, architecture bith in practice and from more philosophical viewpoint
+- 👀 I’m interested in software, coding, architecture bith in practice and from a more philosophical viewpoint
 - 🌱 I’m currently creating a GitHub account to store some hobby projects of mine in case I want to share and discuss some exemples with others 
 
 <!---
